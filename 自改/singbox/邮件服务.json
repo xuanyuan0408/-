@@ -1,0 +1,32 @@
+{
+    "version": 1,
+    "rules": [
+        {
+            "domain": [
+                "apple.imap.mail.yahoo.com",
+                "apple.smtp.mail.yahoo.com",
+                "imap-mail.outlook.com",
+                "imap.gmail.com",
+                "outlook.office365.com",
+                "pop.gmail.com",
+                "smtp-mail.outlook.com",
+                "smtp.gmail.com",
+                "smtp.office365.com"
+            ],
+            "domain_keyword": [],
+            "domain_suffix": [
+                "m.hotmail.com",
+                "imgsmail.ru",
+                "mail.ru",
+                "mycdn.me",
+                "pm.me",
+                "proton.me",
+                "protonmail.ch",
+                "protonmail.com",
+                "protonstatus.com",
+                "mail.icloud.com.cn",
+                "mail.me.com"
+            ]
+        }
+    ]
+}
